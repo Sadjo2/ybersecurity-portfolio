@@ -17,5 +17,3 @@ I worked on configuring the cloud network, deploying compute and database resour
 ## Outcome
 The project provided practical experience in cloud infrastructure deployment, network security and AWS architecture.
 
-## Evidence
-Add the architecture diagram, relevant screenshots and coursework report here.
