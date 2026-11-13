@@ -17,5 +17,3 @@ I configured and tested network devices, implemented routing and access control,
 ## Outcome
 The project strengthened my understanding of network segmentation, secure device configuration and network troubleshooting.
 
-## Evidence
-Add the Packet Tracer file, network topology screenshots and configuration evidence here.
